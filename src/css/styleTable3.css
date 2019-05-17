@@ -1,0 +1,16 @@
+/* .table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+  padding-bottom: 10px !important;
+} */
+.tabletst table > tbody > tr > td,
+.tabletst table > tbody > tr > th,
+.tabletst table > tfoot > tr > td,
+.tabletst table > tfoot > tr > th,
+.tabletst table > thead > tr > td,
+.tabletst table > thead > tr > th {
+  padding-bottom: 210px !important;
+}

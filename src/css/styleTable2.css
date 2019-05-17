@@ -1,0 +1,13 @@
+.texto-small {
+  font-size: 30px !important;
+  font-weight: 450 !important;
+}
+
+.tableloc table > tbody > tr > td,
+.tableloc table > tbody > tr > th,
+.tableloc table > tfoot > tr > td,
+.tableloc table > tfoot > tr > th,
+.tableloc table > thead > tr > td,
+.tableloc table > thead > tr > th {
+  padding-bottom: 10px !important;
+}
